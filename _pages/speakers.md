@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /speakers/
+permalink: /2026/speakers/
 title: Speakers
 nav: true
 nav_order: 3

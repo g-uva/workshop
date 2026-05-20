@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Loic Lannelongue
-permalink: /speakers/loic-lannelongue/
+permalink: /2026/speakers/loic-lannelongue/
 nav: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /committee/
+permalink: /2026/committee/
 title: Committee
 nav: true
 nav_order: 5

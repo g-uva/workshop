@@ -11,7 +11,7 @@ from docx.oxml import OxmlElement
 
 # ── QR code ──────────────────────────────────────────────────────────────────
 qr = qrcode.QRCode(version=1, box_size=8, border=2)
-qr.add_data('https://greensys-org.github.io/workshop/program/')
+qr.add_data('https://greensys-org.github.io/2026/program/')
 qr.make(fit=True)
 qr_img = qr.make_image(fill_color="black", back_color="white")
 qr_buffer = io.BytesIO()
@@ -230,7 +230,7 @@ set_cell_border(right_cell)
 lp = left_cell.paragraphs[0]
 lp.alignment = WD_ALIGN_PARAGRAPH.LEFT
 lp.paragraph_format.space_before = Pt(6)
-lr = lp.add_run('greensys-org.github.io/workshop/program/')
+lr = lp.add_run('greensys-org.github.io/2026/program/')
 lr.font.size  = Pt(8)
 lr.font.color.rgb = RGBColor(0x44, 0x44, 0x44)
 lr.font.name  = 'Calibri'

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /program-old/
+permalink: /2026/program-old/
 title: Workshop Program Draft
 # title: TBD
 description:

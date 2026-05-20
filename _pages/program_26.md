@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /program/
+permalink: /2026/program/
 title: Workshop Program
 description:
 nav: true
@@ -65,7 +65,7 @@ The Strand, Morrison Street, Edinburgh EH3 8EE, UK
     </tr>
     <tr>
       <td style="background-color: #eef4f8;">09:15 - 10:00</td>
-      <td style="background-color: #eef4f8;">Invited Talk 1<br><a href="{{ '/speakers/loic-lannelongue/' | relative_url }}" target="_blank" rel="noopener">Loic Lannelongue</a></td>
+      <td style="background-color: #eef4f8;">Invited Talk 1<br><a href="{{ '/2026/speakers/loic-lannelongue/' | relative_url }}" target="_blank" rel="noopener">Loic Lannelongue</a></td>
       <td style="background-color: #eef4f8;"><span class="talk-title-line">Un/sustainable computing: what can we do about it?</span></td>
     </tr>
     <tr>
@@ -82,7 +82,7 @@ The Strand, Morrison Street, Edinburgh EH3 8EE, UK
     <tr>
       <td rowspan="3"><span class="session-label">Session 2</span><br><small class="session-time">10:45 - 12:30</small></td>
       <td style="background-color: #eef4f8;">11:00 - 11:45</td>
-      <td style="background-color: #eef4f8;">Invited Talk 2<br><a href="{{ '/speakers/pierre-jacquet/' | relative_url }}" target="_blank" rel="noopener">Pierre Jacquet</a></td>
+      <td style="background-color: #eef4f8;">Invited Talk 2<br><a href="{{ '/2026/speakers/pierre-jacquet/' | relative_url }}" target="_blank" rel="noopener">Pierre Jacquet</a></td>
       <td style="background-color: #eef4f8;"><span class="talk-title-line">Monitoring GPUs in Cloud Platforms: Challenges and Opportunities for Orchestration</span></td>
     </tr>
     <tr>
@@ -104,7 +104,7 @@ The Strand, Morrison Street, Edinburgh EH3 8EE, UK
     <tr>
       <td rowspan="3"><span class="session-label">Session 3</span><br><small class="session-time">14:00 - 15:30</small></td>
       <td style="background-color: #eef4f8;">14:00 - 14:50</td>
-      <td style="background-color: #eef4f8;">Invited Talk 3<br><a href="{{ '/speakers/edoardo-ponti/' | relative_url }}" target="_blank" rel="noopener">Edoardo M. Ponti</a></td>
+      <td style="background-color: #eef4f8;">Invited Talk 3<br><a href="{{ '/2026/speakers/edoardo-ponti/' | relative_url }}" target="_blank" rel="noopener">Edoardo M. Ponti</a></td>
       <td style="background-color: #eef4f8;"><span class="talk-title-line">Adaptive foundation models for efficient and long-horizon AI</span></td>
     </tr>
     <tr>
@@ -126,7 +126,7 @@ The Strand, Morrison Street, Edinburgh EH3 8EE, UK
     <tr>
       <td rowspan="2"><span class="session-label">Session 4</span><br><small class="session-time">16:00 - 17:15</small></td>
       <td style="background-color: #eef4f8;">16:00 - 16:45</td>
-      <td style="background-color: #eef4f8;">Invited Talk 4<br><a href="{{ '/speakers/maximilian-boether/' | relative_url }}" target="_blank" rel="noopener">Maximilian Boether</a></td>
+      <td style="background-color: #eef4f8;">Invited Talk 4<br><a href="{{ '/2026/speakers/maximilian-boether/' | relative_url }}" target="_blank" rel="noopener">Maximilian Boether</a></td>
       <td style="background-color: #eef4f8;"><span class="talk-title-line">Efficient data mixing and loading for foundation model training</span></td>
     </tr>
     <tr>

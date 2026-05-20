@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Call for Papers
-permalink: /call-for-papers/
+permalink: /2026/call-for-papers/
 description:
 nav: true
 nav_order: 2

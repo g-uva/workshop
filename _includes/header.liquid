@@ -30,12 +30,22 @@
           {% for page in site.pages %}
             {% if page.permalink == '/' %} {% assign about_title = page.title %} {% endif %}
           {% endfor %}
+          {% assign home_url = '/' %}
+          {% assign home_is_active = false %}
+          {% if page.permalink == '/' %}
+            {% assign home_is_active = true %}
+          {% elsif page.url == '/2026/' %}
+            {% assign home_url = '/2026/' %}
+            {% assign home_is_active = true %}
+          {% elsif page.url contains '/2026/' %}
+            {% assign home_url = '/2026/' %}
+          {% endif %}
 
           <!-- About -->
-          <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
-            <a class="nav-link" href="{{ '/' | relative_url }}">
+          <li class="nav-item {% if home_is_active %}active{% endif %}">
+            <a class="nav-link" href="{{ home_url | relative_url }}">
               {{- about_title }}
-              {% if page.permalink == '/' %}
+              {% if home_is_active %}
                 <span class="sr-only">(current)</span>
               {% endif %}
             </a>

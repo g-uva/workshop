@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pierre Jacquet
-permalink: /speakers/pierre-jacquet/
+permalink: /2026/speakers/pierre-jacquet/
 nav: false
 ---
 

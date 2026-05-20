@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Edoardo M. Ponti
-permalink: /speakers/edoardo-ponti/
+permalink: /2026/speakers/edoardo-ponti/
 nav: false
 ---
 

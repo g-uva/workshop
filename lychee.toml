@@ -5,7 +5,7 @@ scheme = ["http", "https", "mailto"]
 exclude = [
   "^data:",
   "https://www\\.ivanomalavolta\\.com/?.*",
-  "https://greensys-org\\.github\\.io/workshop/2025.*",
+  "https://greensys-org\\.github\\.io/2025.*",
   "https://www\\.linkedin\\.com/company/greensys-workshop"
 ]
 

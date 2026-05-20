@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Maximilian Boether
-permalink: /speakers/maximilian-boether/
+permalink: /2026/speakers/maximilian-boether/
 nav: false
 ---
 
